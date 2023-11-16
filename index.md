@@ -4,3 +4,6 @@
 
 this is the first time iam doing this in git hub. hope this will work fine.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
