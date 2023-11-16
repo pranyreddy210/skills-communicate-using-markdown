@@ -7,3 +7,6 @@ this is the first time iam doing this in git hub. hope this will work fine.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
